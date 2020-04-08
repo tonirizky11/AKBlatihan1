@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">latihanAKB</string>
+    <string name="beli_kode_keluarga_disini">Beli Kode Keluarga Disini</string>
+    <string name="ketentuan">
+        Dengan menekan tombol masuk berarti Anda menyetujui <b> Ketentuan Pengguna </b> dan <b>Kebijakan Data kami</b>
+    </string>
+</resources>
